@@ -8,7 +8,9 @@ Parameters are
 
 
 ## Commands
+select source of python first `source /Users/sabuj/Documents/Personal/Test/Python/django-study/bin/activate`
 ### Start Project
+
 command `python manage.py runserver`
 or run via VSCode debugger
 
